@@ -1,0 +1,12 @@
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\bin\Debug\Student GPA Application.exe.config
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\bin\Debug\Student GPA Application.exe
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\bin\Debug\Student GPA Application.pdb
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\bin\Debug\Student GPA Application.xml
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student GPA Application.vbproj.AssemblyReference.cache
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student_GPA_Application.Form1.resources
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student_GPA_Application.Resources.resources
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student GPA Application.vbproj.GenerateResource.cache
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student GPA Application.vbproj.CoreCompileInputs.cache
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student GPA Application.exe
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student GPA Application.xml
+C:\Users\Dell - i5\source\repos\Student GPA Application\Student GPA Application\obj\Debug\Student GPA Application.pdb
